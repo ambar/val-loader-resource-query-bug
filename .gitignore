@@ -1,0 +1,12 @@
+# Directories
+/node_modules
+/coverage
+/esm
+/cjs
+/dist
+/tmp
+
+# Files
+*.log
+.DS_Store
+yarn.lock
